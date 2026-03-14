@@ -1,4 +1,4 @@
-# BitPreserver Proprietary License – Version 1.1 (2026)
+# BitPreserver Proprietary License – Version 1.0 (2026)
 
 Copyright (c) 2024-2026 Dennis Rapp. Alle Rechte vorbehalten.
 
