@@ -1,0 +1,2 @@
+# BitPreserver dependencies
+# Tkinter is part of stdlib; only list extra libs here if needed

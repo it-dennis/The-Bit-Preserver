@@ -1,0 +1,5 @@
+BitPreserver Lizenz – Version 1.1 (2026)
+
+Copyright (c) 2024-2026 Dennis Rapp
+
+go to: LICENSE.md
